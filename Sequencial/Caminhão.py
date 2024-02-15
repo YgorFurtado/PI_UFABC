@@ -1,5 +1,5 @@
 carga = int(input())
-n1 =carga//500
+n1 = carga//500
 r1 = carga%500
 n2 = r1//100
 r2 = r1%100
